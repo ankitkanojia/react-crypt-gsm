@@ -10,6 +10,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "encrypt",
+    "encryption",
+    "decryption",
+    "decrypt",
+    "react",
+    "AES256-GCM"
+  ],
   "author": "Ankit Kanojia",
   "license": "MIT"
 }
