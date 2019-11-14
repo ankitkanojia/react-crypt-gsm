@@ -6,7 +6,7 @@ A simple wrapper to handle encryption of strings and decryption of string which 
 ## Getting Started
 Install the module with: `npm install --save react-crypt-gsm` or `yarn add react-crypt-gsm`
 
-## Usage Node Application
+## Usage with Node Application
 Using the module is pretty simple.  Create an instance of the react-crypt-gsm. You can use both **encrypt** and **decrypt** keyword or instance which can perform encryption and decryption.
 
 ```
@@ -22,7 +22,7 @@ const encryptedText = reactCryptGsm.encrypt("sample text");
 const decryptedText = reactCryptGsm.decrypt(encryptedText);
 ```
 
-## Usage React Application
+## Usage with React Application
 Using the module is pretty simple.  Create an instance of the react-crypt-gsm. You can use both **encrypt** and **decrypt** keyword or instance which can perform encryption and decryption.
 
 ```
@@ -66,4 +66,3 @@ export default App;
 ## License
 Copyright (c) 2019 Ankit Kanojia
 Licensed under the MIT license.
-****
