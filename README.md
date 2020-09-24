@@ -1,4 +1,4 @@
-# react-crypt-gsm
+# react-crypt-gsm ([NPM Package](https://www.npmjs.com/package/react-crypt-gsm "NPM Package"))
 A simple wrapper to handle encryption of strings and decryption of string which can be used in react application. react-crypt-gsm is a simple aes-256-gcm encrypt and decrypt module for node.js
 
   - `aes-256-gcm` encryption algorithm
