@@ -1,4 +1,4 @@
-# Intoduction
+# Introduction
 
 For any website, security is a fundamental concern for all. Web security is important in keeping hackers and cyber-thieves away from accessing sensitive information. Also, without a proactive security strategy, businesses risk the spread and escalation of malware, attacks on other websites, networks, and other IT infrastructures.
 
