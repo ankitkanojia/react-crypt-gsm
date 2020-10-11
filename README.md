@@ -1,3 +1,9 @@
+# Intoduction
+
+For any website, security is a fundamental concern for all. Web security is important in keeping hackers and cyber-thieves away from accessing sensitive information. Also, without a proactive security strategy, businesses risk the spread and escalation of malware, attacks on other websites, networks, and other IT infrastructures.
+
+In terms of technical conversance, there are many algorithms used as a security strategy, for I also carried out similar activities related to those algorithms by using 'aes-256-gcm' algorithms and developed my own NPM package. This package could be used by anyone who would want to install predefined packages developed by me to prevent their passwords or any imperative information by encryption and decryption.
+
 # react-crypt-gsm ([NPM Package](https://www.npmjs.com/package/react-crypt-gsm "NPM Package"))
 A simple wrapper to handle encryption of strings and decryption of string which can be used in react application. react-crypt-gsm is a simple aes-256-gcm encrypt and decrypt module for node.js
 
