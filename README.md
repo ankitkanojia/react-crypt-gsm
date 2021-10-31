@@ -71,4 +71,4 @@ export default App;
 
 ## License
 Copyright (c) 2019 Ankit Kanojia
-Licensed under the MIT license.
+Licensed under the MIT license. 
